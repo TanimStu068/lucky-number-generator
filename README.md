@@ -1,6 +1,13 @@
 # random_number_generator
 
-A new Flutter project.
+A simple and easy-to-use Flutter app that generates random numbers within a specified range.
+
+## Features
+
+- Generate random numbers with a single tap.
+- Customize the minimum and maximum range.
+- Clean and user-friendly interface.
+- Lightweight and fast.
 
 ## Getting Started
 
